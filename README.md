@@ -8,4 +8,4 @@ cd DAGs-deployment # go into the clone directory
 docker-compose up --build # install all airflow dependencies
 ```
 
-go to localhost:8080 for airflow interface
+Browse localhost:8080 to open airflow interface
